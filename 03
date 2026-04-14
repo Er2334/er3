@@ -1,0 +1,169 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="CINE 1", HBO FAMILY
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/31.m3u8
+http://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(HBO_family_Este_HD)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="CINE 1", HBO PLUS
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/36.m3u8
+http://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(HBO_Plus_Este_HD)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 1", HBO
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/32.m3u8
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(HBO_HD)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 1", HBO 2
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/30.m3u8
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(HBO_2_HD)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 1", HBO MUNDI 
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/33.m3u8
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(HBOMUNDI)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 1", HBO POP
+http://38.41.8.1:8000/play/a0rq
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 1", HBO XTREME 
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/35.m3u8
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(HBOXTREME)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 1", HBO SIGNATURE 
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/34.m3u8
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(HBO_SIGNATURE_HD)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/golden.png"  group-title="CINE 1",GOLDEN
+http://217.26.190.76:8888/play/a0h7/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 1", GOLDEN EDGE HD
+http://181.118.158.103:8000/play/a014/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 1", GOLDEN PREMIER 
+http://217.26.190.76:8888/play/a0jk/index.m3u8
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(GOLDEN_PREMIER_HD)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 1", GOLDEN PREMIER 2
+http://177.10.184.193:8000/play/a02v/index.m3u8
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(GOLDEN_PREMIER_2_HD)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 1", FX
+https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/fx/output.mpd
+http://177.10.184.193:8000/play/a0d2/index.m3u8
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(FX_HD)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 1", CINECANAL 
+http://177.10.184.193:8000/play/a059/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 1", CINEMAX
+https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/cinemax/output.mpd
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(CINEMAX_HD)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 1", AMC
+https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/amc/output.mpd
+http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-76.playlist.m3u8
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(AMC_HD)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", CINE FAMILIAR 
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/14.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", CINE HISPANO 
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/15.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", CINE PREMIUM 
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/16.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIVDIQUdiXpQAaZfNTOqZWrwpxC8KMJvHZ6g&s" group-title="INFANTIL", MONI TV
+https://live20.bozztv.com/akamaissh101/ssh101/monitvhd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", FMH MOVIES
+http://201.218.140.30:9000/play/a089
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIL", FMH KIDS
+http://201.218.140.30:9000/play/a01e
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png" group-title="CINE 2", Retro Plus Cine
+https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Qfcz0zX/cine-retro-genial.png" group-title="CINE 2", Retro Cinema
+http://srv5.zcast.com.br/retrocinema/retrocinema/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="CINE", SONY CINE
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 1", SONY MOVIES
+http://190.60.39.195:8000/play/a0xq/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 1", SONY 
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/49.m3u8
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(CANAL_SONY_HD)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 1", SPACE
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/50.m3u8
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(SPACE_HD)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 1", STAR CHANNEL
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/51.m3u8
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(STAR_HD)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 1", STUDIO UNIVERSAL
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/53.m3u8
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(STUDIO_UNIVERSAL)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 1", TCM
+https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/tcm/output.mpd
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(TCM)/index.m3u8
+
+#EXTINF:-1 ch-number="313" tvg-id="DHE.us" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DHELA.png?raw=true" group-title="CINE 1", DHE
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/19.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 1", TNT
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/56.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 1", UNIVERSAL CINEMA 
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/61.m3u8
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(UNIVERSAL_CINEMA_HD)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 1", WARNER CHANNEL
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/68.m3u8
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(WARNER_CHANNEL_HD)/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
