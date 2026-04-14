@@ -136,6 +136,43 @@ http://190.60.39.195:8000/play/a0ug/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="DEPORTES 1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90677_dark_360w_270h.png", TYC SPORTS
 http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-90.playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN PREMIUM CHI
+http://186.33.40.97:8789/play/22 
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", DSPORTS2 HD
+http://190.238.43.117:8000/play/a09g/index.m3u8
+
+#EXTINF:-1 tvg-id="DSPORTS" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports.png" group-title="Deportes", DSPORTS
+http://217.26.190.76:8888/play/a0co/index.m3u8
+
+#EXTINF:-1 tvg-id="DSPORTS+" tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports+.png" group-title="Deportes", DSPORTS +
+http://217.26.190.76:8888/play/a0jb/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.5.117.57:8999/playlist/tvg-logo/a04t.png" group-title="DEPORTES", TUDN 1
+http://45.5.117.57:8999/play/a04t/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.5.117.57:8999/playlist/tvg-logo/a0ef.png" group-title="DEPORTES", TUDN 2
+http://45.5.117.57:8999/play/a0ef/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.5.117.57:8999/playlist/tvg-logo/a0e5.png" group-title="DEPORTES", Azteca Deportes
+http://45.5.117.57:8999/play/a0e5/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="DEPORTES 1" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c06589c968882b19431e883df28f54cf.webp" aspect-ratio="16:9", FOX DEPORTES
+https://jmp2.uk/plu-63d0269d60bc8f000890facc.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="DEPORTES 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/NBCSN_logo_%28flat%29.svg/512px-NBCSN_logo_%28flat%29.svg.png", NBC SPORTS
+https://jmp2.uk/plu-6549306c83595c000815a696.m3u8
+
+
+
+
+
+
+
+
+
+
+
 
 
 
