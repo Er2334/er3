@@ -126,9 +126,14 @@ https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(UNIVE
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/68.m3u8
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(WARNER_CHANNEL_HD)/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", BITME
+http://181.118.158.103:8000/play/a032/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", MC
+http://186.33.40.97:8789/play/13
 
-
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", MULTIPREMIER
+http://186.33.40.97:8789/play/28
 
 
 
