@@ -51,7 +51,7 @@ http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-95_540.m
 http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-104.playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="EVENTOS" tvg-logo="https://e7.pngegg.com/pngimages/235/824/png-clipart-drawing-others-sport-logo.png", EVENTOS PVV 1
-http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-07.playlist.m3u8
+http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-08.playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="EVENTOS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShXYV4tsiGr55sgm2a61eSApDf8od8y1KMeA&s", EVENTOS PVV 2
 http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-01.playlist.m3u8
@@ -73,6 +73,28 @@ http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-ch26.playlis
 
 #EXTINF:0 type="stream" channelId="-1" group-title="EVENTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/HBO_Max_%282025%29.svg/960px-HBO_Max_%282025%29.svg.png", HBO MAX 3
 http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-02.playlist.m3u8
+
+#EXTINF:-1 tvg-id="TNT Sports.ar" tvg-name="TNT Sports Premium" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTSP.png?raw=true" group-title="Deportes 1" ch-number="109" type="channel",TNT SPORTS POR TWITCH
+https://latam-cache-sv2-cdn.latamlive.net/TNTS_ENC_LIVE/index.mpd
+
+#EXTINF:0 type="stream" channelId="-1" group-title="DEPORTES 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/250px-ESPN_Premium_logo.svg.png", ESPN PREMIUN
+http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-02.playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
