@@ -80,21 +80,61 @@ https://latam-cache-sv2-cdn.latamlive.net/TNTS_ENC_LIVE/index.mpd
 #EXTINF:0 type="stream" channelId="-1" group-title="DEPORTES 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/250px-ESPN_Premium_logo.svg.png", ESPN PREMIUN
 http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-02.playlist.m3u8
 
+#EXTINF:0 type="stream" channelId="-1" group-title="DEPORTES 1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s86787_dark_360w_270h.png", ESPN 5
+http://38.41.8.1:8000/play/a0rm
 
+#EXTINF:0 type="stream" channelId="-1" group-title="DEPORTES 1" tvg-logo="https://assetshuluimcom-a.akamaihd.net/h3o/landing/networks/wall/espn-network-logo.png", ESPN ARG
+http://45.170.130.224:8000/play/a04l/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES 1", ESPN 7
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/26.m3u8
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(FOX_SPORTS_2_LATAM)/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES 1", ESPN 6
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/25.m3u8
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(FOX_SPORTS_3_LATAM)/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES 1", ESPN 2
+https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/sJDmPFpTWBNS2gZhzj8ydHU7tR9Y6uf4k/output.mpd
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(ESPN2)/index.m3u8
 
+EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES 1", ESPN 3
+https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/QVsZxnupYwKdAtb5Dk3zvFXBMGqcWgmfR/output.mpd
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(ESPN3)/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES 1", ESPN 4
+https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/bPHSdXgELpUR4JkCe3Qu5mV6zn8qMwjTY/output.mpd
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(ESPN_EXTRA)/index.m3u8
 
+#EXTINF:0 type="stream" channelId="-1" group-title="DEPORTES 1" tvg-logo="https://images.pluto.tv/channels/6320d80a66666000086712d7/colorLogoPNG.png", CLARO SPORTS
+http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTUSaL5q1VtS-E1wCfb1nvO4/m3u8
 
+#EXTINF:0 type="stream" channelId="-1" group-title="DEPORTES 1" tvg-logo="https://i.ibb.co/zbWxZ95/fs1.png", FOX
+http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-91.playlist.m3u8
 
+#EXTINF:0 type="stream" channelId="-1" group-title="DEPORTES 1" tvg-logo="https://i.ibb.co/YjrQ0CQ/fs2.png", FOX 2
+http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-93.playlist.m3u8
 
+#EXTINF:0 type="stream" channelId="-1" group-title="DEPORTES 1" tvg-logo="https://i.ibb.co/SBkkDxq/fs3.png", FOX 3
+http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-92.playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://45.5.117.57:8999/playlist/tvg-logo/a04t.png" group-title="DEPORTES", TUDN 1
+http://45.5.117.57:8999/play/a04t/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://45.5.117.57:8999/playlist/tvg-logo/a0ef.png" group-title="DEPORTES", TUDN 2
+http://45.5.117.57:8999/play/a0ef/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://45.5.117.57:8999/playlist/tvg-logo/a0e5.png" group-title="DEPORTES", Azteca Deportes
+http://45.5.117.57:8999/play/a0e5/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", BEIN SPORTS Ñ
+https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES 1", WIN SPORTS
+http://190.60.39.195:8000/play/a0ug/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="DEPORTES 1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90677_dark_360w_270h.png", TYC SPORTS
+http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-90.playlist.m3u8
 
 
 
