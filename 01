@@ -1,5 +1,4 @@
-
-
+#EXTM3U
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NACIONALES", ABC TV
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8
@@ -70,16 +69,44 @@ https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(AMC_H
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NACIONALES", ÑANDUTÍ TV
 https://copaco.desdeparaguay.net:443/nandutitv/nandutitv_baja/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NACIONALES", UnionTV
+https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NACIONALES", GO TV
+https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NACIONALES", LIM TV
+https://tv.invasivamedia.com/hls/limtv.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c2rF3SS.png" group-title="NACIONALES", NEXT
+https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MÚSICA", ASPEN CLASSIC 
+https://copaco.desdeparaguay.net:443/aspentv/aspentv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MÚSICA", VENUS MEDIA
+https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", MONUMENTAL TV 
+https://rds3gen.desdeparaguay.net/monumentaltv/monumentaltv_med/playlist.m3u8?admin=tvaccion
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MÚSICA", E40
+https://rds3gen.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", EDUCANAL 
+https://cloudtv.streaming.com.py/educanalpy/educanalpy/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MÚSICA", TROPICALIA
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/67.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", RCC
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/48.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0k6ZVMo.png" group-title="PARAGUAY", ROCK & POP TV
+https://copaco.desdeparaguay.net:443/rockandpoptv/rockandpoptv_baja/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="802" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TVE24.png?raw=true" group-title="Música", Radio Farra tv
+http://159.203.148.226/live/farra.m3u8
 
 
 
