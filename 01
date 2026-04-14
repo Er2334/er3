@@ -1,0 +1,105 @@
+
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NACIONALES", ABC TV
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(ABC)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NACIONALES", CN9
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1443.m3u8
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(CN9)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NACIONALES", GEN TV
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1415.m3u8
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(GEN_TV)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NACIONALES", MEGA TV
+https://ott3.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NACIONALES", LA TELE
+https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(LA_TELE)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NACIONALES", NOTICIAS PY
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/71.m3u8
+uhttps://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(NOTICIAS_PY)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NACIONALES", PARAGUAY TV
+https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8
+https://pylocaltstvhls.l7cdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(Paraguay_TV)/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="NACIONALES" tvg-logo="https://i.imgur.com/kEcOYML.png", Monumental Tv
+https://copacogen.desdeparaguay.net/monumentaltv/monumentaltv_med/playlist.m3u8?admin=tvaccion
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NACIONALES", PARAVISION 
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/120.m3u8
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(PARAVISION)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NACIONALES", SNT
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/113.m3u8
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(SNT)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NACIONALES", SUR TV
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1596.m3u8
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(SUR_TV)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NACIONALES", TELEFUTURO
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/74.m3u8
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(TELEFUTURO)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NACIONALES", EL TRECE
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/82.m3u8
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(RPC)/index.m3u8
+
+#EXTINF:-26 tvg-id="TigoSports.py" tvg-logo="https://iptv-epg.org/logos/Paraguay/TigoSports.py.png" group-title="EVENTOS PY", TIGO INTERMEDIA
+https://copacogen.desdeparaguay.net@live.enhdtv.com:8081/8160https://chromecast.cvattv.com.ar/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NACIONALES", UNICANAL
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/72.m3u8
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(UNICANAL)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NACIONALES", POPU TV
+https://rds3gen.desdeparaguay.net/universotv/universotv_py_alta/chunklist.m3u8?admin=nacion
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(UNIVERSO_HD)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE 1", AMC
+https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/amc/output.mpd
+http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-76.playlist.m3u8
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(AMC_HD)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NACIONALES", ÑANDUTÍ TV
+https://copaco.desdeparaguay.net:443/nandutitv/nandutitv_baja/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
