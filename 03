@@ -681,25 +681,22 @@ http://159.203.148.226/live/farra.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1160_VClassicTV.png" group-title="Música", VClassicTV
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="-", (ONLINE) Telefe
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="-", Telefe
 http://24.152.42.29:8000/play/a023/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="-", (ONLINE) Unicanal HD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="-", Unicanal HD
 http://24.152.42.29:8000/play/a01l/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="-", (ONLINE) UNION TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="-", UNION TV
 http://24.152.42.29:8000/play/a02l/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="-", (ONLINE) Telefuturo HD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="-", Telefuturo HD
 http://24.152.42.29:8000/play/a0br/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="-", (ONLINE) Tv Canindeyu
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="-", Tv Canindeyu
 http://24.152.42.29:8000/play/a091/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="-", (ONLINE) TV CAMARA
-http://24.152.42.29:8000/play/a02a/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="-", (ONLINE) TV GLOBO HD CA
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="-", TV GLOBO HD CA
 http://24.152.42.29:8000/play/a08s/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="-", (ONLINE) TV5 HD CA
