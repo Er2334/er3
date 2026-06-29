@@ -681,25 +681,170 @@ http://159.203.148.226/live/farra.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1160_VClassicTV.png" group-title="Música", VClassicTV
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="-", (ONLINE) Telefe
+http://24.152.42.29:8000/play/a023/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="-", (ONLINE) Unicanal HD
+http://24.152.42.29:8000/play/a01l/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="-", (ONLINE) UNION TV
+http://24.152.42.29:8000/play/a02l/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="-", (ONLINE) Telefuturo HD
+http://24.152.42.29:8000/play/a0br/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="-", (ONLINE) Tv Canindeyu
+http://24.152.42.29:8000/play/a091/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="-", (ONLINE) TV CAMARA
+http://24.152.42.29:8000/play/a02a/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="-", (ONLINE) TV GLOBO HD CA
+http://24.152.42.29:8000/play/a08s/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="-", (ONLINE) TV5 HD CA
+http://24.152.42.29:8000/play/a088/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="-", (ONLINE) TVA C.O
+http://24.152.42.29:8000/play/a02s/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="-", (ONLINE) TELEMUNDO HD CA
+http://24.152.42.29:8000/play/a07e/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="-", (ONLINE) TELEVISA - GOLDEN EDGE
+http://24.152.42.29:8000/play/a0b9/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="-", (ONLINE) TELEVISA -UNIVISION
+http://24.152.42.29:8000/play/a0ba/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="-", (ONLINE) SURTV
+http://24.152.42.29:8000/play/a01w/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="-", (ONLINE) SPORTV BR.
+http://24.152.42.29:8000/play/a018/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="-", (ONLINE) SNT HD
+http://24.152.42.29:8000/play/a0bq/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="-", (ONLINE) Radio Caritas Tv
+http://24.152.42.29:8000/play/a02x/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="-", (ONLINE) Republica 101.3 FM
+http://24.152.42.29:8000/play/a033/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="-", (ONLINE) SBT
+http://24.152.42.29:8000/play/a0ab/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="-", (ONLINE) RCC HD CA
+http://24.152.42.29:8000/play/a086/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="-", (ONLINE) RCN Novelas
+http://24.152.42.29:8000/play/a01g/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="-", (ONLINE) RECORD TV
+http://24.152.42.29:8000/play/a0aa/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="-", (ONLINE) RPC 13 HD opc 1
+http://24.152.42.29:8000/play/a03r/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="-", (ONLINE) ParaguayTV
+http://24.152.42.29:8000/play/a01q/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="-", (ONLINE) PARAVISION
+http://24.152.42.29:8000/play/a01s/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="-", (ONLINE) NPY
+http://24.152.42.29:8000/play/a01v/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="-", (ONLINE) MULTIPREMIER HD CA
+http://24.152.42.29:8000/play/a06v/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="-", (ONLINE) Motor Sur
+http://24.152.42.29:8000/play/a08z/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="-", (ONLINE) MITV
+http://24.152.42.29:8000/play/a02p/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="-", (ONLINE) La Tele
+http://24.152.42.29:8000/play/a028/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="-", (ONLINE) HEI HD CA
+http://24.152.42.29:8000/play/a084/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="-", (ONLINE) GEN HD PY
+http://24.152.42.29:8000/play/a02f/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="-", (ONLINE) GUAIRA TV
+http://24.152.42.29:8000/play/a02m/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="-", (ONLINE) ESPN 7 HD CA
+http://24.152.42.29:8000/play/a05k/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="-", (ONLINE) ESPN 6 HD CA
+http://24.152.42.29:8000/play/a074/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="-", (ONLINE) ESPN 0  1
+http://24.152.42.29:8000/play/a01u/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="-", (ONLINE) ESPN 0  2
+http://24.152.42.29:8000/play/a015/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="-", (ONLINE) ESPN 2 1
+http://24.152.42.29:8000/play/a009/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="-", (ONLINE) ESPN 2 2
+http://24.152.42.29:8000/play/a014/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="-", (ONLINE) E40 2
+http://24.152.42.29:8000/play/a03a/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="-", (ONLINE) CNN HD CA
+http://24.152.42.29:8000/play/a080/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="-", (ONLINE) CINE FAMILIAR HD CA
+http://24.152.42.29:8000/play/a05a/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="-", (ONLINE) CINE HISPANO HD CA
+http://24.152.42.29:8000/play/a058/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="-", (ONLINE) CINE PREMIUM HD CA
+http://24.152.42.29:8000/play/a057/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="-", (ONLINE) C9N HD
+http://24.152.42.29:8000/play/a02d/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="-", (ONLINE) CANAL 5 DIAS HD CA
+http://24.152.42.29:8000/play/a085/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="-", (ONLINE) Almaya
+http://24.152.42.29:8000/play/a098/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="-", (ONLINE) America TV Py
+http://24.152.42.29:8000/play/a01p/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="-", ABC TV
+http://138.59.227.20:8000/play/a0g6/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="-", Latele HD
+http://138.59.227.20:8000/play/a0fg/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="-", Paravision HD
+http://138.59.227.20:8000/play/a0e4/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="-", Paraguari Tv
+http://138.59.227.20:8000/play/a0fz/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="-", Paraguay Tv
+http://138.59.227.20:8000/play/a0f8/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="-", Motor Sur Media
+http://138.59.227.20:8000/play/a0do/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="-", Sur Tv
+http://138.59.227.20:8000/play/a0e9/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="-", Teleclasica
+http://138.59.227.20:8000/play/a0gu/index.m3u8
 
 
 
