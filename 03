@@ -688,7 +688,7 @@ http://24.152.42.29:8000/play/a0br/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", TV CANINDEYU 
 http://24.152.42.29:8000/play/a091/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INTERNACIONALES", TV GLOBO
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRASIL", TV GLOBO
 http://24.152.42.29:8000/play/a08s/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INTERNACIONALES", TELEMUNDO
@@ -700,7 +700,7 @@ http://24.152.42.29:8000/play/a0b9/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INTERNACIONALES", UNIVISION
 http://24.152.42.29:8000/play/a0ba/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", SPORTV BR.
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRASIL", SPORTV BR.
 http://24.152.42.29:8000/play/a018/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", SNT HD
@@ -715,7 +715,7 @@ http://24.152.42.29:8000/play/a033/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", RCC
 http://24.152.42.29:8000/play/a086/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INTERNACIONALES", RECORD TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRASIL", RECORD TV
 http://24.152.42.29:8000/play/a0aa/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PARAGUAY", EL TRECE
@@ -799,7 +799,7 @@ https://tv.invasivamedia.com/hls/limtv.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NACIONALES", POPU TV
 https://rds3gen.desdeparaguay.net/universotv/universotv_py_alta/chunklist.m3u8?admin=nacion
 
-#EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTI5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png" group-title="DEPORTES",DSports 0
+#EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTI5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png" group-title="DEPORTES",DSPORTS 1
 #EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
 #EXTVLCOPT:http-referrer=https://www.primevideo.com/
 #KODIPROP:inputstream=inputstream.adaptive
@@ -807,15 +807,7 @@ https://rds3gen.desdeparaguay.net/universotv/universotv_py_alta/chunklist.m3u8?a
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"RbvVgvIg9Dj4lkUNgwaj8g","k":"WCxrp/ZLvA8tkcawwmV2DA"}],"type":"temporary"}
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd
 
-#EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTI5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png" group-title="DEPORTES",DSports 1
-#EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
-#EXTVLCOPT:http-referrer=https://www.primevideo.com/
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"p9EdN6H3YR7ojU24gBcfMg","k":"aPltYYsLlWsAjERYlqJaeQ"}],"type":"temporary"}
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTI4X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png" group-title="DEPORTES",DSports 2
+#EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTI4X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png" group-title="DEPORTES",DSPORTS 2
 #EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
 #EXTVLCOPT:http-referrer=https://www.primevideo.com/
 #KODIPROP:inputstream=inputstream.adaptive
@@ -823,7 +815,7 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ubehitlwzo/
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"A/Etaj2/06b6fdf2QX4MEQ","k":"6ge4es3y5FvoJM3koc81BA"}],"type":"temporary"}
 http://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png" group-title="DEPORTES",DSports +
+#EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png" group-title="DEPORTES",DSPORTS +
 #EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
 #EXTVLCOPT:http-referrer=https://www.primevideo.com/
 #KODIPROP:inputstream=inputstream.adaptive
@@ -831,13 +823,38 @@ http://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/rgilyeubta/out/v1/09
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"g/gcTMFEOZFUPeTiLup1hg","k":"3f18plPW81VD2O2zxojiDw"}],"type":"temporary"}
 http://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARGENTINA", TELEFE 
+http://138.59.227.20:8000/play/a08a/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INTERNACIONALES", CNN EN ESPAÑOL 
+http://138.59.227.20:8000/play/a093/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRASIL", PREMIERE 2 HD
+http://177.52.24.155:8000/play/a02r/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRASIL", PREMIERE 3 HD
+http://177.52.24.155:8000/play/a016/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRASIL", PREMIERE 4 HD
+http://177.52.24.155:8000/play/a01w/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRASIL", PREMIERE 5 HD
+http://177.52.24.155:8000/play/a017/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRASIL", PREMIERE 6 HD
+http://177.52.24.155:8000/play/a01l/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRASIL", PREMIERE 7
+http://177.52.24.155:8000/play/a03v/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRASIL", PREMIERE 7 HD
+http://177.52.24.155:8000/play/a01x/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRASIL", PREMIERE CLUBES HD
+http://177.52.24.155:8000/play/a01r/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRASIL", SPORTV 2 HD
+http://177.52.24.155:8000/play/a01s/index.m3u8
 
 
 
