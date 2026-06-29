@@ -846,7 +846,8 @@ http://138.59.227.20:8000/play/a0e9/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="-", Teleclasica
 http://138.59.227.20:8000/play/a0gu/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="-", NPY HD
+http://138.59.227.20:8000/play/a0fm/index.m3u8
 
 
 
