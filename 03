@@ -856,6 +856,45 @@ http://177.52.24.155:8000/play/a01r/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRASIL", SPORTV 2 HD
 http://177.52.24.155:8000/play/a01s/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", WIN SPORTS
+http://190.60.39.195:8000/play/a0ug/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", BITME
+http://181.118.158.103:8000/play/a032/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="DEPORTES" tvg-logo="https://images.pluto.tv/channels/6320d80a66666000086712d7/colorLogoPNG.png", CLARO SPORTS
+http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTUSaL5q1VtS-E1wCfb1nvO4/m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", UNIVERSAL CINEMA 
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/364.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", GOLDEN PREMIER 
+http://217.26.190.76:8888/play/a0jk/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", GOLDEN PREMIER 2
+http://177.10.184.193:8000/play/a02v/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIVDIQUdiXpQAaZfNTOqZWrwpxC8KMJvHZ6g&s" group-title="INFANTILES", MONI TV
+https://live20.bozztv.com/akamaissh101/ssh101/monitvhd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", FMH MOVIES
+http://201.218.140.30:9000/play/a089
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", FMH KIDS
+http://201.218.140.30:9000/play/a01e
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
