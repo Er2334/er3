@@ -886,6 +886,21 @@ https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/462.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INTERNACIONALES", TV CHILE
 https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/tvchile/output.mpd
 
+#EXTINF:-1  group-logo="https://play-lh.googleusercontent.com/kJzdzpsxJCkLswIZrC09fWZaen5cnGueDt4rtI5qbg-dcudz0-bd5s_TerqhGvmeKvg=w600-h300-pc0xffffff-pd" tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/YhIUyt4.png" group-title="EVENTOS",T SPORTS 1
+https://sam-py-edge03.tigo.com.py/ccur-session/6a514ddcd9/rolling-buffer/APP_CHN3/APP_CHN1/transmux/index.mpd
+
+#EXTINF:-1  group-logo="https://play-lh.googleusercontent.com/kJzdzpsxJCkLswIZrC09fWZaen5cnGueDt4rtI5qbg-dcudz0-bd5s_TerqhGvmeKvg=w600-h300-pc0xffffff-pd" tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/YhIUyt4.png" group-title="EVENTOS",T SPORTS 2
+https://sam-py-edge03.tigo.com.py/ccur-session/6a514ddcd9/rolling-buffer/APP_CHN3/APP_CHN2/transmux/index.mpd
+
+#EXTINF:-1  group-logo="https://play-lh.googleusercontent.com/kJzdzpsxJCkLswIZrC09fWZaen5cnGueDt4rtI5qbg-dcudz0-bd5s_TerqhGvmeKvg=w600-h300-pc0xffffff-pd" tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/YhIUyt4.png" group-title="EVENTOS",T SPORTS 3
+https://sam-py-edge03.tigo.com.py/ccur-session/6a514ddcd9/rolling-buffer/APP_CHN3/APP_CHN3/transmux/index.mpd
+
+#EXTINF:-1  group-logo="https://play-lh.googleusercontent.com/kJzdzpsxJCkLswIZrC09fWZaen5cnGueDt4rtI5qbg-dcudz0-bd5s_TerqhGvmeKvg=w600-h300-pc0xffffff-pd" tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/YhIUyt4.png" group-title="EVENTOS",T SPORTS 4
+https://sam-py-edge03.tigo.com.py/ccur-session/6a514ddcd9/rolling-buffer/APP_CHN3/APP_CHN4/transmux/index.mpd
+
+
+
+
 
 
 
