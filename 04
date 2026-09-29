@@ -1799,13 +1799,13 @@ https://edge-mix02-mun.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
 https://edge-mix02-mun.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkwODAwNDg4Iiwic2lwIjoiMTgxLjE2Ni4xNzguMTUwIiwicGF0aCI6Ii9saXZlL2M2ZWRzL01ldHJvL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJkM2QyODA3OTUzODhjN2EwIiwic2Vzc2lvbl9pZCI6IjQzMzQ0MTczZmYwNTE4YTBkMGRiNDJjYWMyYWY5Y2FhLTE3OTA2Mjc2ODgtMTE4IiwiY2xpZW50X2lkIjoiZmxvdzo5OTk5MDAwMDI3NTgxNzAtLWZsb3c6OTk5OTAwMDAyNzU4MTcwOlAiLCJkZXZpY2VfaWQiOiI0MzM0NDE3M2ZmMDUxOGEwZDBkYjQyY2FjMmFmOWNhYSIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMTE4Iiwic291cmNlcyI6WzEwNSw4NSwxNDQsMjEwLDg2LDg4XX0=.AOrUwwVmFkp-YwKqJiedmKqL-Tl1rEaRmpTFBsJZWURnoLZDeYGU8BsLnfbZUIkd6DtYfTWyEesg5dc8d10dMg==/live/c7eds/Flow_Music_3/SA_Live_dash_enc/Flow_Music_3.mpd
 
-#EXTINF:-1,America TV PY
+#EXTINF:-1 tvg-name="AMERICA PY" tvg-logo="https://i.ibb.co/FbvZ6t5t/america-py.png" group-title="TV PARAGUAY",AMERICA PY
 http://45.170.130.224:8000/play/a02o/index.m3u8
 
 #EXTINF:-1 tvg-name="EVENTOS" tvg-logo="https://i.ibb.co/3WZtzG3/eventos-py.png" group-title="EVENTOS PY",EVENTOS PY
 http://45.170.130.224:8000/play/a04k/index.m3u8
 
-#EXTINF:-1,GEN HD
+#EXTINF:-1 tvg-name="GEN" tvg-logo="https://i.ibb.co/jyh9z2W/gentv.png" group-title="TV PARAGUAY",GEN
 http://45.170.130.224:8000/play/a04j/index.m3u8
 
 #EXTINF:-1 tvg-name="PARAVISIÓN" tvg-logo="https://i.ibb.co/FXnvNPk/paravision.png" group-title="TV PARAGUAY",PARAVISIÓN
@@ -1814,7 +1814,7 @@ http://45.170.130.224:8000/play/a032/index.m3u
 #EXTINF:-1 tvg-name="EVENTOS" tvg-logo="https://i.ibb.co/3WZtzG3/eventos-py.png" group-title="EVENTOS PY",EVENTOS PY 2
 http://45.170.130.224:8000/play/a04i/index.m3u8
 
-#EXTINF:-1,Unicanal HD
+#EXTINF:-1 tvg-name="UNICANAL" tvg-logo="https://iptvstudio.pages.dev/logos/paraguay/unicanal.png" group-title="TV PARAGUAY",UNICANAL
 http://45.170.130.224:8000/play/a04y/index.m3u8
 
 #EXTINF:-1 tvg-name="EVENTOS" tvg-logo="https://i.ibb.co/3WZtzG3/eventos-py.png" group-title="EVENTOS PY",EVENTOS
@@ -1860,8 +1860,15 @@ https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8
 #EXTINF:-1 tvg-name="CANAL PRO" tvg-logo="https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/pro.png" group-title="TV PARAGUAY",CANAL PRO
 https://www.desde-paraguay.com/pro.m3u8
 
+
+
 #EXTINF:-1 tvg-name="SURTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Sur_TV_Itap%C3%BAa_logo_2022.png" group-title="TV PARAGUAY",SURTV
-http://45.170.130.224:8000/play/a036/index.m3u8
+
+
+#EXTINF:-1 tvg-name="ABC TV" tvg-logo="https://i.ibb.co/dGqjksf/descarga.png" group-title="TV PARAGUAY",ABC TV
+
+
+
 
 #EXTINF:-1 tvg-name="NPY" tvg-logo="https://i.ibb.co/sgRZXh9/NPY-Noticias-Paraguay.png" group-title="TV PARAGUAY",NPY
 https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion
@@ -1875,13 +1882,13 @@ https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tva
 #EXTINF:-1 tvg-name="ÑANDUTI TV" tvg-logo="https://i.ibb.co/3TJQVdt/nandutitv.png" group-title="TV PARAGUAY",ÑANDUTI TV
 https://nanduti.b-cdn.net/Source.m3u8
 
-#EXTINF:-1 tvg-name="HEI" tvg-logo="https://i.imgur.com/oMHiGRN.png" group-title="TV PARAGUAY",HEI
+#EXTINF:-1 tvg-name="HEI" tvg-logo="https://i.imgur.com/oMHiGRN.png" group-title="Música",HEI
 https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion
 
 #EXTINF:-1 tvg-name="EDUCANAL" tvg-logo="https://i.imgur.com/857OkFf.png" group-title="TV PARAGUAY",EDUCANAL
 https://cloudtv.streaming.com.py/educanalpy/educanalpy/playlist.m3u8
 
-#EXTINF:-1 tvg-name="VENUS MEDIA" tvg-logo="https://bestleague.world/img/venus.png" group-title="TV PARAGUAY",VENUS MEDIA
+#EXTINF:-1 tvg-name="VENUS MEDIA" tvg-logo="https://bestleague.world/img/venus.png" group-title="Música",VENUS MEDIA
 https://copacogen.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8
 
 #EXTINF:-1 tvg-name="ROCK & POP" tvg-logo="https://i.ibb.co/MMYLRZV/rocka.png" group-title="TV PARAGUAY",ROCK & POP
@@ -1890,16 +1897,16 @@ https://rds3gen.desdeparaguay.net/rockandpoptv/rockandpoptv_baja/playlist.m3u8
 #EXTINF:-1 tvg-name="MONUMENTAL 1080 AM" tvg-logo="https://i.imgur.com/kEcOYML.png" group-title="TV PARAGUAY",MONUMENTAL 1080 AM
 https://rds3gen.desdeparaguay.net/monumentaltv/monumentaltv_med/playlist.m3u8?admin=tvaccion
 
-#EXTINF:-1 tvg-name="E40" tvg-logo="https://i.ibb.co/jz9XkvP/e40.png" group-title="TV PARAGUAY",E40
+#EXTINF:-1 tvg-name="E40" tvg-logo="https://i.ibb.co/jz9XkvP/e40.png" group-title="Música",E40
 https://rds3gen.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion
 
-#EXTINF:-1 tvg-name="RADIO FARRA" tvg-logo="https://i.ibb.co/99DzY4J/farra-play.png" group-title="TV PARAGUAY",RADIO FARRA
+#EXTINF:-1 tvg-name="RADIO FARRA" tvg-logo="https://i.ibb.co/99DzY4J/farra-play.png" group-title="Música",RADIO FARRA
 https://stream.farra.com.py/live/farra.m3u8
 
 #EXTINF:-1 tvg-name="NEXT" tvg-logo="https://i.imgur.com/c2rF3SS.png" group-title="TV PARAGUAY",NEXT
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 
-#EXTINF:-1 tvg-name="ASPEN" tvg-logo="https://i.ibb.co/sJRyc31/aspen-classic.png" group-title="TV PARAGUAY",ASPEN
+#EXTINF:-1 tvg-name="ASPEN" tvg-logo="https://i.ibb.co/sJRyc31/aspen-classic.png" group-title="Música",ASPEN
 https://rds3gen.desdeparaguay.net/aspentv/aspentv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="UNIÓN TV" tvg-logo="https://i.imgur.com/No9YzNC.png" group-title="TV PARAGUAY",UNIÓN TV
