@@ -1909,6 +1909,48 @@ https://rds3gen.desdeparaguay.net/aspentv/aspentv/playlist.m3u8
 #EXTINF:-1 tvg-name="UNIÓN TV" tvg-logo="https://i.imgur.com/No9YzNC.png" group-title="TV PARAGUAY",UNIÓN TV
 https://rds3gen.desdeparaguay.net/800tv/800tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Música", V CLASISC TV
+http://201.218.140.30:9000/play/a03k
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Cine + Series", ACTION PRIME
+http://201.218.140.30:9000/play/a0fl
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Cine + Series", Clover
+http://201.218.140.30:9000/play/a0bc
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Infantil", ETC
+http://201.218.140.30:9000/play/a0b9
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Infantil", RETRO MAGICO
+http://201.218.140.30:9000/play/a0f8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Música", RETRO MUSIC
+http://201.218.140.30:9000/play/a0e6
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Cine + Series", RETRO TV
+http://201.218.140.30:9000/play/a0fk
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Música", RETROPLUS 1
+http://201.218.140.30:9000/play/a0f9
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Música", RETROPLUS 2
+http://201.218.140.30:9000/play/a0fa
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Cine + Series", RETROPLUS TV
+http://201.218.140.30:9000/play/a0fb
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Cine + Series", RETROX
+http://201.218.140.30:9000/play/a09t
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Infantil", RETROX CARTOONS
+http://201.218.140.30:9000/play/a0e5
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Cine + Series", RETROX PLUS
+http://201.218.140.30:9000/play/a09u
+
+
+
+
 
 
 
