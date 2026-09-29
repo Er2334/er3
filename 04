@@ -1860,7 +1860,7 @@ https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8
 #EXTINF:-1 tvg-name="CANAL PRO" tvg-logo="https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/pro.png" group-title="TV PARAGUAY",CANAL PRO
 https://www.desde-paraguay.com/pro.m3u8
 
-#EXTINF:-1 tvg-name="SURTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Sur_TV_Itap%C3%BAa_logo_2022.png" group-title="TV PARAGUAY",SURTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Sur_TV_Itap%C3%BAa_logo_2022.png" group-title="TV PARAGUAY", SURTV
 http://45.170.130.224:8000/play/a036/index.m3u8
 
 
@@ -1911,13 +1911,6 @@ https://rds3gen.desdeparaguay.net/aspentv/aspentv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="UNIÓN TV" tvg-logo="https://i.imgur.com/No9YzNC.png" group-title="TV PARAGUAY",UNIÓN TV
 https://rds3gen.desdeparaguay.net/800tv/800tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Música", POPU TV
-https://rds3gen.desdeparaguay.net/universotv/universotv_py_alta/chunklist.m3u8?admin=nacion
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="CINE", SONY CINE
-https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
-
 
 
 
