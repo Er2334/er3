@@ -1860,10 +1860,10 @@ https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8
 #EXTINF:-1 tvg-name="CANAL PRO" tvg-logo="https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/pro.png" group-title="TV PARAGUAY",CANAL PRO
 https://www.desde-paraguay.com/pro.m3u8
 
-
-
 #EXTINF:-1 tvg-name="SURTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Sur_TV_Itap%C3%BAa_logo_2022.png" group-title="TV PARAGUAY",SURTV
 http://45.170.130.224:8000/play/a036/index.m3u8
+
+
 
 #EXTINF:-1 tvg-name="ABC TV" tvg-logo="https://i.ibb.co/dGqjksf/descarga.png" group-title="TV PARAGUAY",ABC TV
 
