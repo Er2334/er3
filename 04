@@ -1832,30 +1832,8 @@ http://45.170.130.224:8000/play/a04w/index.m3u8
 #EXTINF:-1,SNT FHD
 http://45.170.130.224:8000/play/a04i/index.m3u8
 
-#EXTINF:-1,SURTV
-http://45.170.130.224:8000/play/a036/index.m3u8
-
-#EXTINF:-1,TELEFUTURO HD
-http://45.170.130.224:8000/play/a04m/index.m3u8
-
-#EXTINF:-1,Telefuturo
-http://45.170.130.224:8000/play/a014/index.m3u8
-
-#EXTINF:-1,Telefuturo FHD
-http://45.170.130.224:8000/play/a04x/index.m3u8
-
-#EXTINF:-1,El Trece
-http://45.170.130.224:8000/play/a02m/index.m3u8
-
-#EXTINF:-1,El Trece HD
-http://45.170.130.224:8000/play/a050/index.m3u8
-
-#EXTINF:-1,Unicanal
-http://45.170.130.224:8000/play/a03o/index.m3u8
-
 #EXTINF:-1,Unicanal HD
 http://45.170.130.224:8000/play/a04y/index.m3u8
-
 
 #EXTINF:-1 tvg-name="EVENTOS" tvg-logo="https://i.ibb.co/3WZtzG3/eventos-py.png" group-title="EVENTOS PY",EVENTOS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1897,9 +1875,7 @@ https://d3epa8orr2qy3m.cloudfront.net/ts:abr.m3u8
 https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8?admin=tvaccion
 
 #EXTINF:-1 tvg-name="TRECE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR2g_asOsN2SyRS2jBzWLyuHtCjNAjYIVNRn-hiqu0zw&s=10" group-title="TV PARAGUAY",TRECE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/TRECE_PY
-https://cdn-py.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd
+http://45.170.130.224:8000/play/a02m/index.m3u8
 
 #EXTINF:-1 tvg-name="MEGA TV" tvg-logo="https://i.ibb.co/hfFmYXz/WW.jpg" group-title="TV PARAGUAY",MEGA TV
 https://www.desde-paraguay.com/mega.m3u8
@@ -1916,7 +1892,7 @@ https://www.desde-paraguay.com/pro.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
 #EXTVLCOPT:http-origin=https://portal.app.flow.com.py
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
-https://cdn-py.cvattv.com.ar/live/c4eds/SUR_TV_C4/SA_Live_dash_enc/SUR_TV_C4.mpd|User-Agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37&Origin=https://portal.app.flow.com.py&Referer=https://portal.app.flow.com.py/
+http://45.170.130.224:8000/play/a036/index.m3u8
 
 #EXTINF:-1 tvg-name="NPY" tvg-logo="https://i.ibb.co/sgRZXh9/NPY-Noticias-Paraguay.png" group-title="TV PARAGUAY",NPY
 https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion
