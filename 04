@@ -1857,16 +1857,52 @@ http://45.170.130.224:8000/play/a03o/index.m3u8
 http://45.170.130.224:8000/play/a04y/index.m3u8
 
 
+#EXTINF:-1 tvg-name="EVENTOS" tvg-logo="https://i.ibb.co/3WZtzG3/eventos-py.png" group-title="EVENTOS PY",EVENTOS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/EVENTOS_PY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.py
+#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
+https://cdn-py.cvattv.com.ar/live/c3eds/Eventos_PY/SA_Live_dash_enc_wl/Eventos_PY.mpd|User-Agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37&Origin=https://portal.app.flow.com.py&Referer=https://portal.app.flow.com.py/
 
+#EXTINF:-1 tvg-name="EVENTOS 2" tvg-logo="https://i.ibb.co/3WZtzG3/eventos-py.png" group-title="EVENTOS PY",EVENTOS 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/EVENTOS-_PY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.py
+#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
+https://cdn-py.cvattv.com.ar/live/c4eds/Eventos2_PY/SA_Live_dash_enc/Eventos2_PY.mpd|User-Agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37&Origin=https://portal.app.flow.com.py&Referer=https://portal.app.flow.com.py/
 
+#EXTINF:-1 tvg-name="TIGO SPORTS" tvg-logo="https://i.ibb.co/5X20hxjL/KN-copia-4.png" group-title="EVENTOS PY",TIGO SPORTS
+https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/0fd608d0807c48edb4713da6b80e8c34/index.m3u8
 
+#EXTINF:-1 tvg-name="XUPERPLAY SPORTS" tvg-logo="https://i.ibb.co/5X20hxjL/KN-copia-4.png" group-title="EVENTOS PY",XUPERPLAY SPORTS
+https://videostream.shockmedia.com.ar/hls/yatytaytv/yatytaytv.m3u8
 
+#EXTINF:-1 tvg-name="N Sports (C. DEL ESTE)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8bbe6817af0af2e0e5a6df96f245b752.webp" group-title="EVENTOS PY",N Sports (C. DEL ESTE)
+https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_1080p.m3u8
 
+#EXTINF:-1 tvg-name="VS SPORTS" tvg-logo="https://i.ibb.co/CpxTmNvM/vs-sports.png" group-title="EVENTOS PY",VS SPORTS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/VS-SPORTS_PY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.py
+#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
+https://cdn-py.cvattv.com.ar/live/c7eds/GEN__CAM1/SA_Live_dash_enc/GEN__CAM1.mpd|User-Agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37&Origin=https://portal.app.flow.com.py&Referer=https://portal.app.flow.com.py/
 
+#EXTINF:-1 tvg-name="SNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg" group-title="TV PARAGUAY",SNT
+https://d3epa8orr2qy3m.cloudfront.net/ts:abr.m3u8
 
+#EXTINF:-1 tvg-name="TELEFUTURO" tvg-logo="https://i.imgur.com/6lVrFvb.png" group-title="TV PARAGUAY",TELEFUTURO
+https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8?admin=tvaccion
 
-
-
+#EXTINF:-1 tvg-name="TRECE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR2g_asOsN2SyRS2jBzWLyuHtCjNAjYIVNRn-hiqu0zw&s=10" group-title="TV PARAGUAY",TRECE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/TRECE_PY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.py
+#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
+https://cdn-py.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd|User-Agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37&Origin=https://portal.app.flow.com.py&Referer=https://portal.app.flow.com.py/
 
 
 
