@@ -1798,6 +1798,9 @@ http://45.170.130.224:8000/play/a032/index.m3u
 #EXTINF:-1 tvg-name="EVENTOS" tvg-logo="https://i.ibb.co/3WZtzG3/eventos-py.png" group-title="EVENTOS PY",EVENTOS PY 2
 http://45.170.130.224:8000/play/a04i/index.m3u8
 
+#EXTINF:-1 tvg-name="EVENTOS" tvg-logo="https://i.ibb.co/3WZtzG3/eventos-py.png" group-title="EVENTOS PY",NOVA SPORTS 
+https://lbgo.bozztv.com/ssh101/ssh101/novasports001/playlist.m3u8
+
 #EXTINF:-1 tvg-name="UNICANAL" tvg-logo="https://iptvstudio.pages.dev/logos/paraguay/unicanal.png" group-title="TV PARAGUAY",UNICANAL
 http://45.170.130.224:8000/play/a04y/index.m3u8
 
